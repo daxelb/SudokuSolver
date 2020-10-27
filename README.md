@@ -13,11 +13,13 @@ different solving techniques.
 ## Languages used:
 Prolog
 
+## Libraries used:
+[CLP(FD)](https://www.swi-prolog.org/man/clpfd.html)
+
 ## Contributors:
 * Damián Browne
 
 ## References:
 [The Power of Prolog](metalevel.at)
-
 [CLP(FD) Library](https://www.swi-prolog.org/man/clpfd.html)
 
