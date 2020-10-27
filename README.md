@@ -6,7 +6,7 @@ Made as the final project in SLU Madrid's CSCI 3200 Programming Languages course
 
 ## Description
 A program that takes Sudoku puzzles as input, and outputs their solution
-using constraint logic propagation from the CLP(FD) library and labelling.
+using constraint logic propagation from the CLP(FD) library and labeling.
 The program can also provide a difficulty rating of the input puzzle using
 different solving methods.
 
