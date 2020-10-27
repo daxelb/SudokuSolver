@@ -16,8 +16,8 @@ different solving techniques.
 * Libraries
   * clp(fd)
 
-## Contributors:
-* Damián Browne
+## Contributors
+* [Damián Axel Browne](https://github.com/damianbrowne)
 
 ## References:
 [The Power of Prolog](metalevel.at)
