@@ -17,5 +17,7 @@ Prolog
 * Damián Browne
 
 ## References:
-[https://www.swi-prolog.org/man/clpfd.html](CLP(FD) Library)
-[metalevel.at](The Power of Prolog)
+[The Power of Prolog](metalevel.at)
+
+[CLP(FD) Library](https://www.swi-prolog.org/man/clpfd.html)
+
